@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="utf-8">
+    <title>即時新聞</title>
+    <style>
+        button.active {
+            background-color: lightblue;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <button id="btnTop10" class="active">第 1-10 條即時新聞</button>
+    <button id="btn11_30">第 11-30 條即時新聞</button>
+
+    <div>
+        <table id="newsTable" border="1" class="dataframe">
+            <thead>
+                <tr>
+                    <th>序號</th>
+                    <th>標題</th>
+                    <th>概要</th>
+                    <th>關鍵字</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- 動態新聞內容將會被插入在這裡 -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const newsTableBody = document.querySelector("#newsTable tbody");
+            
+            async function fetchNews(section) {
+                let url = '';
+                switch(section) {
+                    case 1:
+                        url = './news_top10.json';  // 假設 JSON 檔案和 HTML 檔案在同一個資料夾
+                        break;
+                    case 2:
+                        url = './news_11_30.json';
+                        break;
+                }
+                
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) {
+                        throw new Error('無法獲取新聞資料');
+                    }
+                    
+                    const newsData = await response.json();
+                    let html = '';
+                    newsData.forEach(news => {
+                        html += `<tr>
+                            <td>${news.序號}</td>
+                            <td><a href="${news.連結}" target="_blank">${news.標題}</a><br>${news.時間}</td>
+                            <td>${news.概要}<br>${news.連結}</td>
+                            <td>${news.關鍵字}</td>
+                        </tr>`;
+                    });
+                    
+                    newsTableBody.innerHTML = html;
+                } catch (error) {
+                    console.error(error.message);
+                }
+            }
+            
+            // 初始加載第1-10條新聞
+            fetchNews(1);
+
+            document.getElementById('btnTop10').addEventListener('click', () => {
+                fetchNews(1);
+                document.getElementById('btnTop10').classList.add('active');
+                document.getElementById('btn11_30').classList.remove('active');
+            });
+
+            document.getElementById('btn11_30').addEventListener('click', () => {
+                fetchNews(2);
+                document.getElementById('btnTop10').classList.remove('active');
+                document.getElementById('btn11_30').classList.add('active');
+            });
+        });
+    </script>
+</body>
+</html>
