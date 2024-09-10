@@ -1,0 +1,2007 @@
+{
+    "total": 987,
+    "per_page": 30,
+    "current_page": 1,
+    "last_page": 33,
+    "next_page_url": "/media/api/v1/newslist/category/headline?limit=30&page=2",
+    "prev_page_url": null,
+    "from": 1,
+    "to": 30,
+    "data": [
+        {
+            "newsId": 5714059,
+            "title": "〈電子五哥營收〉和碩8月營收884億元年月雙減 看好三大產品Q3成長",
+            "content": "&lt;p&gt;和碩 (4938-TW) 今 (10) 日公告 8 月營收 884.38 億元，年月雙減。不過和碩管理團隊看好，隨著時序進到傳統消費旺季，旗下三大產品線第三季皆有望成長。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;和碩 8 月營收 884.38 億元，月減 8.38%，年減 1.02%；累計今年 1 至 8 月營收 6890.81 億元，年減 11.86%。至於出貨狀況，和碩 8 月筆電出貨 85 至 90 萬台，月增 12.5%，年減 2.77%。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;和碩指出，消費性電子產品進到第三季傳統旺季，預期季對季將有雙位數成長的表現，通訊產品隨客戶新品上市後，也有望逐月成長。另外，也預期第三季筆電出貨則有望季增雙位數。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;伺服器方面，和碩認為 AI 伺服器有很大的爆發性，目前和碩 AI 伺服器訂單主要來自北美客戶，上半年已經開始小量出貨 L10(組裝與測試)，將推出 AI 相關新品。&nbsp;&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "和碩 (4938-TW) 今 (10) 日公告 8 月營收 884.38 億元，年月雙減。不過和碩管理團隊看好，隨著時序進到傳統消費旺季，旗下三大產品線第三季皆有望成長。 ",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "4938"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:4938:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "和碩",
+                "電子五哥",
+                "AI伺服器"
+            ],
+            "is24h": 1,
+            "publishAt": 1725958932,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/xs/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/s/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/m/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/l/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/xl/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 960,
+                    "height": 539
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714059/xxl/4625123244fcef2ce66fd2798ba758cf.jpg",
+                    "width": 1080,
+                    "height": 607
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "4938",
+                    "name": "和碩",
+                    "symbol": "TWS:4938:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713878,
+            "title": "富邦金前8月賺1133億元創歷年同期次高 穩居金控獲利王",
+            "content": "&lt;p&gt;富邦金 (2881-TW) 今 (10) 日 8 月稅後純益 55.3 億元，累計前 8 月稅後純益 1133.3 億元，年增 81.67%，每股稅後純益 (EPS) 為 8.43 元，創下歷年同期次高，穩居金控獲利王寶座。其中，子公司台北富邦銀行、富邦證券單月及累計前 8 月獲利皆創下歷年同期新高。&lt;/p&gt;\n\n&lt;p&gt;富邦人壽 8 月稅後純益為 23.6 億元，累計稅後純益為 745.5 億元，較去年同期成長 91%，創下歷年前 8 月第三高紀錄。本月主要投資收益來源主係國內外股票及基金資本利得、利息收入及股利收入。富邦人壽保持穩健的投資布局，並動態調整避險部位，以有效管理匯兌風險。&lt;/p&gt;\n\n&lt;p&gt;股市方面，富邦人壽表示，8 月持續密切關注市場波動情況，伺機實現資本利得，再加上現金股息入帳挹注投資收益；債市方面，美國通膨降溫，8 月公債利率回落，富壽自今年 5 月起，已把握利率高檔時機，持續增加債券部位，以提升經常性收益。&lt;/p&gt;\n\n&lt;p&gt;匯市方面，市場對於 9 月聯準會降息之寬鬆預期促使美元走跌，導致美元兌台幣 8 月貶值 2.73%。富邦人壽透過拉高避險比例，控管匯兌損失，應對金融市場波動。&lt;/p&gt;\n\n&lt;p&gt;富邦人壽個體累計前 8 月初年度保費收入 (First Year Premium) 達 753 億元，較去年同期成長 15%，總保費收入 (Total Premium) 達 2335 億元，較去年同期成長 9%，預估皆排名業界第二；8 月初年度保費 107 億元，較去年同期成長 29%，總保費收入 272 億元，預估皆排名業界第二。8 月底淨值比率逾 10%，RBC 超過 350%，整體資本水準維持良好。&lt;/p&gt;\n\n&lt;p&gt;台北富邦銀行 8 月稅後純益 29.1 億元，累計稅後純益 224.3 億元，分別較去年同期成長 25%、21%，續創單 8 月及累計前 8 月稅後純益歷年新高紀錄，主要來自銀行核心業務獲利動能穩健，存放款餘額雙位數成長及淨利差提升，利息淨收益年成長 11%，財富管理各項商品銷售動能上升。&lt;/p&gt;\n\n&lt;p&gt;北富銀信用卡客戶基盤擴大，有效卡數及簽帳金額較同期成長，手續費淨收益年成長超過 4 成。截至 8 月底逾放比率為 0.11%，備抵呆帳覆蓋率為 1144%，維持良好資產品質。&lt;/p&gt;\n\n&lt;p&gt;富邦產險 8 月稅後純益 4 億元，累計稅後純益 31.9 億元，保險本業收入穩健。8 月整體簽單保費 48.4 億元，較去年同期成長 9%。企業保險簽單保費較去年同期成長 13%，其中工程險因積極爭取綠能保險及公共工程等業務，單月簽單保費成長 29%。累計前 8 月簽單保費收入 445.5 億元，年成長 12%，簽單市佔率 24.3%，維穩市場龍頭地位。&lt;/p&gt;\n\n&lt;p&gt;富邦證券 8 月稅後純益 7.9 億元，累計稅後純益 75.1 億元，較去年同期成長 46%，受惠今年整體台股量能熱絡帶動，台股日均值累計前 8 月逾 5,500 億元，8 月底台股加權指數收 22268 點，較去年底漲升 4338 點，各主要業務獲利皆較去年同期顯著成長，持續創下單 8 月及累計前 8 月稅後純益歷年新高紀錄。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "富邦金 (2881-TW) 今 (10) 日 8 月稅後純益 55.3 億元，累計前 8 月稅後純益 1133.3 億元，年增 81.67%，每股稅後純益 (EPS) 為 8.43 元，獲利創下歷年同期次高。",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "2881"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:TSE01:INDEX:COMMON",
+                "TWS:2881:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "富邦金",
+                "富邦人壽",
+                "稅後純益"
+            ],
+            "is24h": 1,
+            "publishAt": 1725958861,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/xs/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/s/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/m/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/l/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/xl/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713878/xl/4d84484241690994b481e59664fa52f7.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "2881",
+                    "name": "富邦金",
+                    "symbol": "TWS:2881:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713996,
+            "title": "又一家！繼豐田後 日本松下宣布巴黎奧運後退出IOC頂級贊助商之列",
+            "content": "&lt;p&gt;日本松下控股今 (10) 日宣布，將在巴黎奧運會後終止與國際奧委會 (IOC) 的頂級贊助商協議，並稱這一決定是綜合考量經營環境和經營內容而做出，《產經新聞》認為此舉可能是為了提高公司獲利努力的部分行動。&lt;/p&gt;\n\n&lt;p&gt;該公司表示，在 12 月底與 IOC 的現有合約到期後，將不再延長合作關係，IOC 主席則表示，IOC 理解並充分尊重松下調整業務的戰略。因此，這一夥伴關係將以尊重和友好的方式結束。」&lt;/p&gt;\n\n&lt;p&gt;松下控股在 1987 年首度成為奧運會全球官方合作夥伴，當時公司名稱為松下電器，為奧運會提供攝影機和大型商業投影機，雙方合作關係在 2014 年拓展到帕運會。&lt;/p&gt;\n\n&lt;p&gt;松下控股子公司 Panasonic Connect 此前已決定將資源集中在數位供應鏈系統，並在上月將高端投影機業務與商用顯示器業務轉售給歐力士。&lt;/p&gt;\n\n&lt;p&gt;在完成必要的審批和許可手續後，兩項業務將從 Panasonic Connect 和松下控股中剝離，由雙方共同成立的新公司運營，新公司將由歐力士持股 80%、Panasonic Connect 持股 20%。&lt;/p&gt;\n\n&lt;p&gt;Panasonic Connect 商用投影機業務主力產品高亮度投影機在全球市場佔據領先份額，還曾在 2020 年東京奧運會和帕運會開閉幕式上使用。&lt;/p&gt;\n\n&lt;p&gt;另一家頂級贊助商豐田也將隨著 10 年合約到期，在今年底結束對奧運的贊助。&lt;/p&gt;\n\n&lt;p&gt;在 2017 年至 2021 年期間，IOC 從頂級贊助商獲得的收入為 22.95 億美元，是奧運會第二大收入來源，同期轉播權收入則達到 45.44 億美元。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": null,
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "FX:USDJPY:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "IOC",
+                "頂級贊助商",
+                "奧運會"
+            ],
+            "is24h": 0,
+            "publishAt": 1725958693,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/xs/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/s/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/m/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/l/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/xl/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713996/xxl/17b2e0044b92785027c49345f6639a33.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 833,
+            "categoryName": "國際政經",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713858,
+            "title": "Bernstein：若川普當選美國總統 比特幣年底前有望達到9萬美元",
+            "content": "&lt;p&gt;伯恩斯坦 (Bernstein) 在周一 (9 日) 的研究報告中表示，如果川普在 11 月贏得美國大選，比特幣預計將在今年晚些時候創下新高，到今年第四季，其價格可能會達到 9 萬美元。&lt;/p&gt;\n\n&lt;p&gt;報告認為，如果賀錦麗贏得選舉，市值最大的加密貨幣預計將跌破目前 5 萬美元以上的水位，並可能測試 3 萬美元至 4 萬美元的區間。&lt;/p&gt;\n\n&lt;p&gt;伯恩斯坦指出，川普一直非常直言不諱地將美國打造成「地球上的加密貨幣之都」，並在他發表的每一次政策演講中都提到了數位資產。&lt;/p&gt;\n\n&lt;p&gt;今年 7 月，川普在加密貨幣產業最大規模的年度會議 2024 年比特幣大會上曾發表演說，如果他能重返白宮，他將把比特幣列為美國戰略儲備資產，「如果比特幣要登上月球，我希望美國成為引領潮流的國家」。&lt;/p&gt;\n\n&lt;p&gt;8 月末，他又在 X 上向其 9000 萬粉絲發布了一段影片，之後強調，他計畫讓美國成為「地球上的加密貨幣之都」。&lt;/p&gt;\n\n&lt;p&gt;報告指出，相較之下，賀錦麗的任何演講中甚至沒有提到加密貨幣。&lt;/p&gt;\n\n&lt;p&gt;伯恩斯坦表示，加密貨幣市場在過去 3 年面臨宏觀和監管兩個重大阻力，限制其發展。&lt;/p&gt;\n\n&lt;p&gt;Gautam Chhugani 領導的分析師指出：「經過過去 3 年的監管清理，積極的加密貨幣監管政策可以再次刺激創新，並將用戶帶回區塊鏈上的金融產品。」&lt;/p&gt;\n\n&lt;p&gt;報告補充說，積極的監管環境將消除金融機構和銀行參與的政策風險，從而消除數位資產與傳統資產爭奪機構資金流動的障礙。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "伯恩斯坦 (Bernstein) 在周一 (9 日) 的研究報告中表示，如果川普在 11 月贏得美國大選，比特幣預計將在今年晚些時候創下新高，到今年第四季，其價格可能會達到 9 萬美元。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "CC:BTC:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "川普",
+                "比特幣",
+                "美國大選",
+                "賀錦麗",
+                "監管"
+            ],
+            "is24h": 0,
+            "publishAt": 1725958203,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/xs/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/s/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/m/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/l/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/xl/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713858/xxl/96504a4c9c64cd015db060d84410cfe4.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 896,
+            "categoryName": "幣圈",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713860,
+            "title": "北韓國慶日談話 金正恩：將「成倍」增加核武數量",
+            "content": "&lt;p&gt;北韓周一（9 日）慶祝建國 76 周年，領導人金正恩發表談話，表示北韓正在實施核力量建設政策，將「成倍」增加核武數量。&lt;/p&gt;\n\n&lt;p&gt;據《朝中社》周二報導，金正恩說，必須更徹底地準備核能力，隨時做好適當使用核能力的準備，以確保國家安全。金正恩還表示，需要強大的軍事存在，以因應美國及其追隨者所構成的各種威脅。&lt;/p&gt;\n\n&lt;p&gt;金正恩在提及韓美日加強軍事合作時稱，由美國主導擴大的軍事小圈子，逐漸演變成基於核力量的集團，這給北韓帶來重大威脅。面對與日俱增的多種威脅，北韓將不斷增強核力量，以徹底因應擁核敵對國的一切形式威脅。&lt;/p&gt;\n\n&lt;p&gt;他強調，北韓是負責任的擁核國家，出於自衛目的擁核，不會對任何一方構成威脅。&lt;/p&gt;\n\n&lt;p&gt;金正恩指出：「將爭取核武等國家整體武裝力量保持備戰狀態，並為此制定相關對策，付出更多努力。軍力將加倍發展和演進，我國不會為此設限。」&lt;br&gt;\n&nbsp;&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "北韓周一（9 日）慶祝建國 76 周年，領導人金正恩發表談話，表示北韓正在實施核力量建設政策，將「成倍」增加核武數量。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "北韓",
+                "金正恩",
+                "國慶"
+            ],
+            "is24h": 0,
+            "publishAt": 1725958188,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/xs/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/s/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/m/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/l/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/xl/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713860/xxl/1f19eaace6b26b270bda5ed6d4c38a9e.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 833,
+            "categoryName": "國際政經",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5714047,
+            "title": "水泥雙雄8月營收 台泥續創同期高 亞泥持穩繳雙增",
+            "content": "&lt;p&gt;水泥雙雄今 (10) 日公告 8 月營收，台泥 (1101-TW) 營收 130 億元，月減 9.8%，年增 38.6%，創同期高；亞泥 (1102-TW) 營收 67.34 億元月增 0.2%、年增 4%，則繳出雙增表現。&lt;/p&gt;\n\n&lt;p&gt;累計台泥前 8 月營收 922.66 億元，年增 27.8%；台泥指出，中國大陸水泥市場供過於求、營收減少，但台灣水泥市場營收仍較去年同期成長；此外，3 月合併的葡萄牙 Cimpor 和土耳其 OYAK，截至 8 月為止已貢獻約 300 億元營收。&lt;/p&gt;\n\n&lt;p&gt;其他事業體方面，台泥所屬和平電力自 7 月起供電恢復正常、台泥旗下台泥綠能、台泥儲能營收都較去年同期成長，所屬達和航運也受惠於船運量提升，對 8 月營收有所貢獻。&lt;/p&gt;\n\n&lt;p&gt;亞泥累計前 8 月營收 489.41 億元，年增 8.6%；亞泥說明，8 月中國大陸水泥銷量與營收皆較上月成長；台灣方面，子公司亞東預拌、嘉惠電力發電度數增長，遠龍不鏽鋼銷量上升，營收表現均優於去年同期。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "水泥雙雄今 (10) 日公告 8 月營收，台泥 (1101-TW) 營收 130 億元，月減 9.8%，年增 38.6%，創同期高；亞泥 (1102-TW) 營收 67.34 億元月增 0.2%、年增 4%，則繳出雙增表現。",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "1101",
+                "1102"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:1101:STOCK:COMMON",
+                "TWS:1102:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "水泥",
+                "台泥",
+                "亞泥"
+            ],
+            "is24h": 1,
+            "publishAt": 1725958135,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/xs/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/s/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/m/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/l/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/xl/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714047/xl/07ce7247c8902a0be15d25939084fbb9.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "1101",
+                    "name": "台泥",
+                    "symbol": "TWS:1101:STOCK"
+                },
+                {
+                    "code": "1102",
+                    "name": "亞泥",
+                    "symbol": "TWS:1102:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5714048,
+            "title": "〈台幣〉美元指數續彈升 台幣再貶8.3分收32.173元",
+            "content": "&lt;p&gt;台股加權指數今 (10) 日陷入震盪整理，下跌 80.36 點至 21064.08 點，匯市也同樣走弱，終場收在 32.173 元，貶值 8.3 分，台北外匯經紀公司成交值則收斂至 15.57 億美元。&lt;/p&gt;\n\n&lt;p&gt;新台幣今日以 32.09 元、平盤開出後，全日處貶值態勢，午盤後貶幅更擴大，最低來到 32.218 元，貶值 1.28 角，終場收在 32.173 元，貶值 8.3 分。&lt;/p&gt;\n\n&lt;p&gt;由於美元指數續反彈 0.54%，主要亞幣偏弱整理，日元、韓元續貶 0.3% 上下，新台幣貶 0.26%，人民幣小貶 0.1%，星元和港幣處平盤附近震盪。&lt;/p&gt;\n\n&lt;p&gt;統一投顧分析，美國 8 月新增非農就業由 8.9 萬人升至 14.2 萬人，不如預期的 16.5 萬人，失業率由 4.3% 降至 4.2%，符合預期， 本周重要數據與事件須留意，今日有美國總統候選人電視辯論會，隨後有 11 日公布物價、13 日公布 9 月密大消費者信心。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "〈台幣〉弱勢整理 續貶 8.3 分收 32.173 元",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:TSE01:INDEX:COMMON",
+                "GI:DXY:INDEX:COMMON",
+                "FX:USDTWD:FOREX:COMMON",
+                "FX:JPYUSD:FOREX:COMMON",
+                "FX:KRWUSD:FOREX:COMMON",
+                "FX:CNYUSD:FOREX:COMMON",
+                "FX:HKDUSD:FOREX:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "台幣",
+                "匯市",
+                "美元",
+                "美元指數"
+            ],
+            "is24h": 1,
+            "publishAt": 1725957959,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/xs/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/s/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/m/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/l/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/xl/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5714048/xl/7e637d4df70fe27da6735c7858b8d9c6.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713875,
+            "title": "家登8月營收寫今年次高 全年戰新高",
+            "content": "&lt;p&gt;家登 (3680-TW) 今 (10) 日公佈 8 月營收 6.46 億元，月增 1.2%，年增 45%，累計前 8 月營收 44.6 億元，年增 38%，家登指出，此次在 SEMICON 展示全方位載具解決方案動能，引領下半年旺季營運續強，預期在光罩載具、晶圓載具、CoWoS 3D 封裝以及浸沒式冷卻需求助攻，全年集團營收將挑戰新高。&lt;/p&gt;\n\n&lt;p&gt;家登說，2024 年全球地緣政治、貿易市場持續動盪，更加劇 AI 浪潮的勢不可擋，家登在半導體供應鏈中扮演不可或缺的角色，也將延續至未來 AI 的策略布局。&lt;/p&gt;\n\n&lt;p&gt;家登透過本土供應鏈聯盟布局，建構 AI 產業生態系 (Ecosystem)，以整合取代競爭，共同服務大客戶，健全本土在地供應鏈韌性。&lt;/p&gt;\n\n&lt;p&gt;家登結合聯盟資源提供先進封裝完整解決方案，鎖定先進封裝商機，與全球客戶偕同開發提供 CoWoS 各製程產品，包括 CoW 使用的 Frame FOUP、WoS 段的 Panel FOUP 及堆疊完成後使用的 Full Panel Shipper，全方位的投入 CoWoS 解決方案並大量送樣客戶驗證中，取得美國、台灣和日本客戶實績，預期 2025 放量出貨，迎接下個爆發成長的關鍵里程碑。&lt;/p&gt;\n\n&lt;p&gt;家登子公司家崎科技也進軍 AI 伺服器散熱解決方案，主要產品為雙相浸沒式冷卻機櫃，用於晶圓廠和封測廠，透過與技鋼合作，在技術上相輔相成，共創雙贏。&lt;/p&gt;\n\n&lt;p&gt;台灣擁有全球相當完整的先進冷卻散熱技術生態系，約 90% 以上的資料中心伺服器由總部位於台灣的廠商供貨，家崎與夥伴廠商合作開發，共同服務 AI 市場，不只能滿足客戶需求，更能為 ESG 盡一份心力，協助整體供應鏈有效節能減碳。&lt;/p&gt;\n\n&lt;p&gt;展望下半年及 2025 年，家登五大亮點值得關注：High-NA EUV 光罩盒需求量持續擴充、晶圓載具市占不斷攀升、完整 CoWoS 解決方案領先全球、航太營收大量挹注及冷卻技術的新戰力，將帶領家登半導體全方位解決方案領先市場，集團 2025 有機會挑戰百億元營收。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "家登 (3680-TW) 今 (10) 日公佈 8 月營收 6.46 億元，月增 1.2%，年增 45%，累計前 8 月營收 44.6 億元，年增 38%，家登指出，此次在 SEMICON 展示全方位載具解決方案動能，引領下半年旺季營運續強，預期在光罩載",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "3680"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:3680:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "家登",
+                "ASML",
+                "浸沒式冷卻",
+                "CoWoS"
+            ],
+            "is24h": 1,
+            "publishAt": 1725957754,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/xs/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/s/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/m/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/l/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/xl/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713875/xxl/fd4614d0cd23b8fd92b2ef5876a08e98.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "3680",
+                    "name": "家登",
+                    "symbol": "TWS:3680:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713332,
+            "title": "維護生物多樣性 兆豐金控旗下170員工攜手「除蔓」致力保育",
+            "content": "&lt;p&gt;為臺灣建構永續山林環境，兆豐金融集團 7 日參與農業部林業及自然保育署（林業署）的「小花蔓澤蘭全國防治日」活動；兆豐金控（2886-TW）表示，本次「除蔓」雙路並進，除金控總經理蕭玉美率領子公司同仁前往臺中市東勢林場外，子公司兆豐票券、資產管理同仁則前進宜蘭大學南澳農場，兩地共約 170 名志工同仁及眷屬參與移除小花蔓澤蘭的「除蔓」任務，攜手維護生物多樣性。&lt;/p&gt;\n\n&lt;p&gt;蕭玉美表示，為維護臺灣豐富的在地生物多樣性，集團志工同仁持續投入參與移除外來種，如：小花蔓澤蘭、巴西水竹葉、合果芋等，並致力推動臺中大肚山造林、臺南黑面琵鷺棲地復育計畫，也透過銀行子公司信用卡產品結合野生動物保育、植樹造林等，鼓勵消費者一同關注自然生態議題。&lt;/p&gt;\n\n&lt;p&gt;小花蔓澤蘭被國際自然保育聯盟（IUCN）列為世界百大入侵種，嚴重影響在地森林生態、經濟作物發展，本次兆豐金控帶領旗下子公司銀行、證券、投信、票券、保險等，於東勢林場園區移除小花蔓澤蘭 64 公斤，現場共清除高達 200 公斤；兆豐票券更已連續 3 年響應宜蘭分署除蔓工作，足跡遍及臺北市及宜蘭礁溪等地，本次在宜蘭南澳農場移除 151.67 公斤，現場共移除 269 公斤，共同復原在地蓊鬱翠林。&lt;/p&gt;\n\n&lt;p&gt;兆豐金控除號召志工實地參與維護臺灣生物多樣性，並依循 TNFD（自然相關財務揭露）框架與聯合國「生物多樣性公約」等規範，建立與自然環境共諧的商業模式。兆豐金控也承諾集團轄下營運據點，新增或遷移設立皆符合保護生物多樣性及「零毀林」原則。&lt;/p&gt;\n\n&lt;p&gt;面對環境永續各項挑戰，兆豐金控亦已制定 TCFD（氣候相關財務揭露）報告書，並榮獲 SGS 頒發「TCFD 績效評核 - 標竿者」認證、天下雜誌評選為「溫控 1.5&deg;C」成效卓越企業等多項肯定，今年 6 月也通過 SBTi 審查（Science Based Targets Initiative，科學基礎減量目標倡議），全面推動各項減碳策略行動方案，與全民一同守護永續家園。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "為臺灣建構永續山林環境，兆豐金融集團 7 日參與農業部林業及自然保育署（林業署）的「小花蔓澤蘭全國防治日」活動；兆豐金控表示，本次「除蔓」雙路並進，除金控總經理蕭玉美率",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:2886:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "ESG共同推動",
+                "兆豐金",
+                "TCFD",
+                "TNFD"
+            ],
+            "is24h": 0,
+            "publishAt": 1725957618,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/xs/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/s/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/m/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/l/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/xl/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 960,
+                    "height": 539
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713332/xxl/75b6c214586e34fcc52bda23f9938d20.jpg",
+                    "width": 1080,
+                    "height": 607
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "2886",
+                    "name": "兆豐金",
+                    "symbol": "TWS:2886:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713215,
+            "title": "投資人該提高警覺了！大環境挑戰多 高盛交易業務估年減10%",
+            "content": "&lt;p&gt;今年股價漲幅在同業中名列前茅的高盛高盛集團 (&lt;a data-symbol-template=&quot;USS:GS:STOCK:COMMON&quot; href=&quot;#&quot;&gt;GS-US&lt;/a&gt;) 表示，該行第三季的交易業務估年減 10%，比預期還要大，暗示提醒投資人要謹慎行事。&lt;/p&gt;\n\n&lt;p&gt;高盛執行長 David Solomon 週一在巴克萊主辦的會議上表示，由於去年第三季市況相對強勁，今年第三季交易業務收入可能年減 10%，特別是固定收益業務跌幅最大。&lt;/p&gt;\n\n&lt;p&gt;分析師原本預期高盛交易第三季業務將下滑 6.6%，但 David Solomon 預估的跌幅更大，凸顯其交易部門將無法重現去年同期的強勁表現，且環境更具挑戰性，8 月尤為如此。&lt;/p&gt;\n\n&lt;p&gt;高盛和摩根史丹利擁有大型交易業務，也與金融市場波動高度相關。&lt;/p&gt;\n\n&lt;p&gt;高盛股價今年以來上漲 27%，優於多數競爭同業，歸因於其核心投資銀行業務復甦，以及該行大幅收縮其新推出的零售業務。&lt;/p&gt;\n\n&lt;p&gt;David Solomon 表示，投銀業務的市況持續轉熱，但私募股權公司、對沖基金等資金贊助者 (financial sponsors) 的踴躍度不如預期。&lt;/p&gt;\n\n&lt;p&gt;市場近期傳出，高盛計劃藉年度績效評估在全球裁員 3~4%，此為因績效因素、市場狀況和財務展望作出的例行性調整。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": null,
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "USS:GS:STOCK:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "高盛",
+                "交易業務",
+                "示警"
+            ],
+            "is24h": 0,
+            "publishAt": 1725957603,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/xs/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/s/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/m/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/l/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/xl/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713215/xl/263d3364c86e9c13b34e690595cde5ce.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 831,
+            "categoryName": "美股雷達",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "GS",
+                    "name": "高盛",
+                    "symbol": "USS:GS:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713876,
+            "title": "國泰證喜迎20周年 達200萬客戶新里程碑 晉升前5大券商",
+            "content": "&lt;p&gt;國泰證券於今 (2024) 年迎接成立 20 周年，在金融創新有成下，成功晉升前五大券商、3 年內新增客戶達百萬人，並達成 200 萬名客戶新里程碑，國泰證強調，「200 萬客戶數」是里程碑也是創新發展的起點，象徵著投資人的認同與信任，未來將秉持數位為客戶賦能初衷，力求在變動的環境中加速前進。&lt;/p&gt;\n\n&lt;p&gt;國泰證回顧 20 個年頭，秉持集團「誠信、當責、創新」核心價值，傾聽投資人需求、解決痛點，跳脫傳統框架，開創證券「無人區」貼心服務，例如降低台美股定期定額門檻、提供無差別的優惠手續費、智慧加減碼等。&lt;/p&gt;\n\n&lt;p&gt;因此，國泰證以券商黑馬之姿寫下多項業界紀錄，尤其全台券商市占率排名自 10 年前第 15，僅 10 萬戶規模，2 年前超車到全台前 5 大券商，客戶數僅花 3 年即從 100 萬戶翻倍成長，如今再創 200 萬客戶的里程碑，蟬聯 8 年複委託市場龍頭，20 周年繳出亮眼成績單。&lt;/p&gt;\n\n&lt;p&gt;回顧過往，國泰證成為撼動券商排名的黑馬，原因在於「數位創新」，2017 年是數位轉型首部曲，領先業界推線上開戶 App，可一站式開辦證券戶掌握台美股盤勢。&lt;/p&gt;\n\n&lt;p&gt;而有感於大眾常因「資金不充裕」、「沒有時間盯盤」等問題，對投資理財望而卻步，國泰證改變市場手續費率、降低定期定額投資門檻，引發投資人關注討論，自「2019 年取消低消、提供台股定期定額超優惠手續費」、「2022 推美股 ETF 手續費均一價」等，使小額投資人也能參與市場，成功大幅拓展小資客群。&lt;/p&gt;\n\n&lt;p&gt;除了降低投資門檻，國泰證持續注入金融創新量能推出「數位證券服務」搶占投資人心占率，如業界貼心創舉「2023 年台股定期定額智慧加減碼」、「2024 年股息再投資」，讓投資人不僅能以股價的季均價為基準，智慧調整定期定額之申購金額，還能一鍵自動化投入股息，放大「複利」效益，因而贏得數位原生世代肯定，去年一舉獲社群平台 Dcard 票選為年輕人最愛券商。&lt;/p&gt;\n\n&lt;p&gt;「不斷創新成長，以數位為客戶賦能」，是國泰證券董事長莊順裕對未來的期許。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "國泰證喜迎 20 周年 達 200 萬客戶新里程碑 晉升前 5 大券商",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "國泰證",
+                "券商APP",
+                "小資",
+                "定期定額",
+                "複委託"
+            ],
+            "is24h": 0,
+            "publishAt": 1725957471,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/xs/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/s/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/m/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/l/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/xl/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713876/xxl/4a937fabfb8f4a1c0540cdde67f7c3a1.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713869,
+            "title": "宜特8月營收創單月新高 打造亞洲最完整「太空環境測試中心」",
+            "content": "&lt;p&gt;驗證分析業者宜特 (3289-TW) 今 (10) 日公佈 8 月營收 4 億元，月增 28.93%，年增 25.8%，刷新歷史新高紀錄，累計前 8 月營收 28.33 億元，年增 9.7%；宜特表示，受惠國際大廠 AI 相關訂單湧入，以及公司擴廠計畫成效顯現，帶動 8 月營收創下歷史新高。&lt;/p&gt;\n\n&lt;p&gt;宜特說明，近期接獲全球高效能處理器晶片大廠在 AI 領域的可靠度驗證 (RA) 與故障分析 (FA) 訂單，同時，子公司宜錦也獲得大量 AI 相關功率元件薄化訂單，8 月開始獲利，進一步帶動公司整體業績成長。&lt;/p&gt;\n\n&lt;p&gt;此外，隨著宜特台元廠區的一廠、二廠建置完成，相關機台設備逐步進駐，全面提升在竹北台元的故障分析 (FA) 與材料分析 (MA) 一條龍解決方案實力，能夠更加貼近客戶需求，就近提供服務。&lt;/p&gt;\n\n&lt;p&gt;此外，宜特近期新成立的中興廠區，將進一步擴充了公司在可靠度驗證 (RA) 領域的產能和服務能量，為未來業績成長注入新的動力，強化公司在市場上的競爭力，為未來持續增長奠定了堅持基礎。&lt;/p&gt;\n\n&lt;p&gt;在另一個迅速崛起的太空產業，宜特也正積極布局以掌握新機遇，隨著新太空時代來臨，低軌衛星技術快速發展，商業化測試驗證的需求大增，為協助有意投入此領域的國內外廠商進行太空環境驗測，提升產品競爭力，宜特成立太空環境測試實驗室，預計 10 月起正式啟用。&lt;/p&gt;\n\n&lt;p&gt;宜特看好，該實驗室將可提供從地面火箭發射到太空所需，包括震動、衝擊、熱真空、輻射等關鍵項目在內的各項環境與可靠度測試一站式解決方案。&lt;/p&gt;\n\n&lt;p&gt;早在 2020 年，宜特已獲得國家太空中心邀請，加入「台灣太空輻射環境驗測聯盟」，共同在台灣推動並建立太空輻射測試與驗證能量，並在 2021 年偕同聯盟，完成首例台灣影像感測器以及記憶體模組廠商輻射驗測服務。&lt;/p&gt;\n\n&lt;p&gt;經過幾年的耕耘努力，目前宜特科技已透過既有的「輻射測試聯盟」，完成數十個案例，包括類比、數位、記憶體、射頻等各種電子零組件輻射測試案。&lt;/p&gt;\n\n&lt;p&gt;除了輻射測試，爾後宜特科技在震動、衝擊、熱真空等太空環境測試項目也持續投入研究，並建置太空環境測試實驗室，可望大幅提升亞洲在太空環境測試的案量，提供更多衛星製造商就近在地化測試驗證服務，協助國內外廠商進行太空環境驗測，使廠商可以更專注在產品的設計與製造，加速台灣與亞洲各國的太空產業發展。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "驗證分析業者宜特 (3289-TW) 今 (10) 日公佈 8 月營收 4 億元，月增 28.93%，年增 25.8%，刷新歷史新高紀錄，累計前 8 月營收 28.33 億元，年增 9.7%；宜特表示，受惠國際大廠 AI 相關訂單湧入，以及公司擴廠計畫成",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "3289"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:3289:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "宜特",
+                "太空",
+                "RA",
+                "FA",
+                "HPC",
+                "AI",
+                "驗證分析",
+                "檢測"
+            ],
+            "is24h": 1,
+            "publishAt": 1725957422,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/xs/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/s/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/m/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/l/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/xl/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713869/xxl/6fac0eacc574c7166f8a970a9d91c52c.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "3289",
+                    "name": "宜特",
+                    "symbol": "TWS:3289:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5712722,
+            "title": "〈陸港盤後〉華為正式發表全球首款「三折機」 A股三大指數齊揚",
+            "content": "&lt;p&gt;中國 A 股市場三大指數周二（10 日）收盤齊揚，華為概念股撐場，華為正式發表 Mate XT 非凡大師，這是全球首款「三折機」，擁有 10.2 英寸的螢幕，售價人民幣（下同）19,999 元起。&lt;/p&gt;\n\n&lt;p&gt;滬指周二收盤漲 0.28% 報 2,744.19 點，深證成指漲 0.13% 報 8,073.83 點，創業板指漲 0.06% 報 1,539.98 點，兩市成交額合計 5,276 億元。&lt;/p&gt;\n\n&lt;p&gt;旅遊、保險、房地產、券商、農業、醫藥類股走低，半導體、釀酒、銀行、汽車族群上漲，華為概念股活躍。&lt;/p&gt;\n\n&lt;p&gt;香港恒生指數周二收盤漲 0.22%，報 17,234.09 點，恒生科技指數漲 0.41%，報 3,450.73 點。&lt;/p&gt;\n\n&lt;p&gt;據《財聯社》報導，在華為見非凡品牌盛典及鴻蒙智行新品發表會上，常務董事余承東周二表示，Mate XT 非凡大師是全球首款「三折機」，打開手機後，螢幕有 10.2 英寸，是全球最大折疊手機，相當於把平板電腦裝在口袋裡。&lt;/p&gt;\n\n&lt;p&gt;余承東說，這款手機展開後，厚度僅 3.6 毫米，是全球最薄的折疊手機。&lt;/p&gt;\n\n&lt;p&gt;余承東開玩笑稱：「我們在飛機上，在火車上，要看報告，要看 PPT，你就可以打開三折，實現沉浸式閱覽。小紅書，打開就是大紅書。」&lt;/p&gt;\n\n&lt;p&gt;余承東表示，華為耗時五年，解決了螢幕和鉸鏈的技術突破，全球首創華為天工鉸鏈系統，實現雙軌聯動。&lt;/p&gt;\n\n&lt;p&gt;這款「三折機」，256GB 版本售價 19,999 元，512GB 版本售價 21,999 元，1TB 版本售價 23,999 元。9 月 20 日 10 時 08 分正式開售。&lt;/p&gt;\n\n&lt;p&gt;據《界面新聞》報導，華為商城在周一晚間的數據顯示，於 9 月 7 日中午 12 時 08 分開放預購的 Mate XT 非凡大師，預購人數已突破 300 萬，達到 313.7 萬人。&lt;/p&gt;\n\n&lt;p&gt;另據《第一財經》周一報導，在二手交易平台，「黃牛」已經把這款新機的訂購價格炒到 2 萬元左右。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "中國 A 股市場三大指數周二（10 日）收盤齊揚，華為概念股撐場，華為正式發表 Mate XT 非凡大師，這是全球首款「三折機」，擁有 10.2 英寸的螢幕，售價人民幣（下同）19,999 元起。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "GI:HSI:INDEX:COMMON",
+                "GI:SSEC:INDEX:COMMON",
+                "FX:CNYUSD:FOREX:COMMON",
+                "FX:USDCNY:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "華為",
+                "三折機",
+                "Mate XT 非凡大師"
+            ],
+            "is24h": 1,
+            "publishAt": 1725957005,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/xs/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/s/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/m/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/l/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/xl/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712722/xxl/0a0b7b109d48c9fc34c06777b4850c3a.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 835,
+            "categoryName": "A股",
+            "columnists": null,
+            "fundCategoryAbbr": [
+                {
+                    "name": "股票-大中華",
+                    "categoryAbbrId": "C55"
+                }
+            ],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713923,
+            "title": "營收速報  - 精金(3049)8月營收1.52億元年增率高達70.73％",
+            "content": "&lt;p&gt;    精金(3049-TW)今天公告2024年8月營收為新台幣1.52億元，年增率70.73%，月增率20.04%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為8.89億元，累計年增率-16.88%。&lt;/p&gt;&lt;p&gt;    最新價為8.97元，近5日股價上漲0.33%，相關光 電 業下跌-7.41%，股價漲幅表現優於產業指數。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-656 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-526 張&lt;/li&gt;    &lt;li&gt;投信買賣超：0 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：-130 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;1.52億&lt;/td&gt;        &lt;td&gt;71%&lt;/td&gt;        &lt;td&gt;20%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;1.26億&lt;/td&gt;        &lt;td&gt;14%&lt;/td&gt;        &lt;td&gt;3%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;1.23億&lt;/td&gt;        &lt;td&gt;-17%&lt;/td&gt;        &lt;td&gt;27%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;9,664萬&lt;/td&gt;        &lt;td&gt;-29%&lt;/td&gt;        &lt;td&gt;1%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;9,568萬&lt;/td&gt;        &lt;td&gt;-46%&lt;/td&gt;        &lt;td&gt;-9%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;1.05億&lt;/td&gt;        &lt;td&gt;-51%&lt;/td&gt;        &lt;td&gt;-2%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    精金(3049-TW) 所屬產業為光電業，主要業務為觸控式液晶顯示器之研究、開發、生產、製造及銷售業務。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月精金(3049-TW) 營收年增成長70.73% , 盤後股價為8.97元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:3049:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "精金"
+            ],
+            "is24h": 0,
+            "publishAt": 1725956157,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "3049",
+                    "name": "和鑫",
+                    "symbol": "TWS:3049:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713916,
+            "title": "營收速報  - 東泥(1110)8月營收3.27億元年增率高達104.24％",
+            "content": "&lt;p&gt;    東泥(1110-TW)今天公告2024年8月營收為新台幣3.27億元，年增率104.24%，月增率19.34%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為17.83億元，累計年增率21.11%。&lt;/p&gt;&lt;p&gt;    最新價為21.65元，近5日股價下跌-3.77%，相關水泥工業下跌-2.82%，短期股價無明顯表現。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-540 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-368 張&lt;/li&gt;    &lt;li&gt;投信買賣超：0 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：-172 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;3.27億&lt;/td&gt;        &lt;td&gt;104%&lt;/td&gt;        &lt;td&gt;19%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;2.74億&lt;/td&gt;        &lt;td&gt;63%&lt;/td&gt;        &lt;td&gt;42%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;1.93億&lt;/td&gt;        &lt;td&gt;6%&lt;/td&gt;        &lt;td&gt;-6%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;2.05億&lt;/td&gt;        &lt;td&gt;-4%&lt;/td&gt;        &lt;td&gt;-1%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;2.07億&lt;/td&gt;        &lt;td&gt;-6%&lt;/td&gt;        &lt;td&gt;-6%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;2.21億&lt;/td&gt;        &lt;td&gt;2%&lt;/td&gt;        &lt;td&gt;26%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    東泥(1110-TW) 所屬產業為水泥工業，主要業務為(1)水泥製造與買賣(2)石灰石之開採及銷售。(3)水泥加工製品及預拌混凝土之製造及銷售。(4)廠房及大樓出租業(5)廢棄物處理業。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月東泥(1110-TW) 營收年增成長104.24% , 盤後股價為21.65元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:1110:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "東泥"
+            ],
+            "is24h": 0,
+            "publishAt": 1725956131,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "1110",
+                    "name": "東泥",
+                    "symbol": "TWS:1110:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713915,
+            "title": "營收速報  - 台泥(1101)8月營收130.04億元年增率高達38.65％",
+            "content": "&lt;p&gt;    台泥(1101-TW)今天公告2024年8月營收為新台幣130.04億元，年增率38.65%，月增率-9.88%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為922.66億元，累計年增率27.78%。&lt;/p&gt;&lt;p&gt;    最新價為31.45元，近5日股價下跌-3.66%，相關水泥工業下跌-2.82%，短期股價無明顯表現。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-469 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-4669 張&lt;/li&gt;    &lt;li&gt;投信買賣超：+5638 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：-1438 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;130.04億&lt;/td&gt;        &lt;td&gt;39%&lt;/td&gt;        &lt;td&gt;-10%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;144.30億&lt;/td&gt;        &lt;td&gt;61%&lt;/td&gt;        &lt;td&gt;6%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;136.60億&lt;/td&gt;        &lt;td&gt;55%&lt;/td&gt;        &lt;td&gt;-1%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;138.60億&lt;/td&gt;        &lt;td&gt;44%&lt;/td&gt;        &lt;td&gt;19%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;116.26億&lt;/td&gt;        &lt;td&gt;28%&lt;/td&gt;        &lt;td&gt;-15%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;136.49億&lt;/td&gt;        &lt;td&gt;16%&lt;/td&gt;        &lt;td&gt;184%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    台泥(1101-TW) 所屬產業為水泥工業，主要業務為有關水泥及水泥製品之生產及運銷。有關水泥原料及水泥製品原料之開採製造運銷及附屬礦石之開採經銷。經營有關水泥工業及其附屬事業。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月台泥(1101-TW) 營收年增成長38.65% , 盤後股價為31.45元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:1101:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "台泥"
+            ],
+            "is24h": 0,
+            "publishAt": 1725956129,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "1101",
+                    "name": "台泥",
+                    "symbol": "TWS:1101:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713905,
+            "title": "鉅亨速報 - Factset 最新調查：甲骨文ORCL-US的目標價調升至165元，幅度約3.13%",
+            "content": "&lt;p&gt;根據FactSet最新調查，共25位分析師，對甲骨文(ORCL-US)提出目標價估值：中位數由160元上修至165元，調升幅度3.13%。其中最高估值185元，最低估值120元。&lt;/p&gt;&lt;p&gt;綜合評級 - 共有33位分析師給予甲骨文評價：積極樂觀18位、保持中立14位、保守悲觀1位。&lt;/p&gt;&lt;p&gt;甲骨文今(10日)收盤價為139.89元。近5日股價下跌3.13%，標普指數下跌3.14%股價漲幅表現優於大盤。&lt;/p&gt;&lt;p&gt;資料來源：Factset，數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "FactSet 最新調查：甲骨文ORCL-US目標價調升，最高估值、最低估值、中位數、綜合評級、近5日股價、標普、即時新聞資訊",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "USS:ORCL:STOCK:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "美股",
+                "ORCL",
+                "市場預估",
+                "目標價"
+            ],
+            "is24h": 0,
+            "publishAt": 1725956118,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 917,
+            "categoryName": "美股預估",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "ORCL",
+                    "name": "甲骨文",
+                    "symbol": "USS:ORCL:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713756,
+            "title": "逾9.1萬起跳！華為余承東：Mate XT成本非常高 隨著良率提升價格有望下降",
+            "content": "&lt;p&gt;中國科技大廠華為今 (10) 日下午發表全球首款三折疊手機 Mate XT 非凡大師，售價從 1 萬 9999 人民幣 (約 9.16 萬台幣) 起跳，將在下周五 (20 日) 正式上市販售，不過華為常務董事、終端 BG 董事長、智能汽車解決方案 BU 董事長余承東表示，這款產品成本非常高，但隨著良率提升可能會有下降。&lt;/p&gt;\n\n&lt;p&gt;《新浪科技》報導，華為常務董事、終端 BG 董事長、智能汽車解決方案 BU 董事長余承東在新機發表會上公佈了華為 Mate XT 售價，最低 19999 元起售，並介紹新機規格，分為 16GB+256GB、16GB+512GB、16GB+1TB 三種，價格分別為人民幣 19999 元、21999 元、23999 元。&lt;/p&gt;\n\n&lt;p&gt;華為 Mate XT 非凡大師以其卓越的設計和功能，重新定義了大螢幕體驗，閱讀面積提升兩倍以上，觀影面積同樣翻倍，看圖面積更達到 2.5 倍，無論是瀏覽股票資訊還是小紅書圖文，都能帶來更加沉浸的體驗。&lt;/p&gt;\n\n&lt;p&gt;此外，270 度旋轉支架保護殼的設計，讓設備可輕鬆切換至直立螢幕模式，滿足不同使用場景的需求。&lt;/p&gt;\n\n&lt;p&gt;另外，華為 Mate XT 非凡大師還搭載了 AI 信息顧問，提供文章摘要、AI 翻譯專家、對照翻譯以及 AI 資深編輯功能，實現自然對話的流暢交流。&lt;/p&gt;\n\n&lt;p&gt;在硬體方面，華為 Mate XT 非凡大師內置 5600mAh 的矽碳負極電池，採用三電芯並聯設計，支援 66W 有線快充和 50W 無線快充，確保了持久續航能力。同時，它還支持靈犀通信和天通衛星通話，提供了更強大的通信能力。&lt;/p&gt;\n\n&lt;p&gt;華為 Mate XT 非凡大師還首次採用華為天工鉸鏈系統，這一創新技術同時解決了內外彎折的問題，確保螢幕平整度和耐用性。螢幕採用複合疊層結構，結合非牛頓流體和業界最大的 UTG 玻璃，為用戶帶來了無與倫比的視覺體驗。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": null,
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "FX:CNYUSD:FOREX:COMMON",
+                "FX:USDTWD:FOREX:COMMON",
+                "FX:USDCNH:FOREX:COMMON",
+                "FX:USDCNY:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "華為",
+                "三摺疊螢幕手機",
+                "硬體規格",
+                "AI"
+            ],
+            "is24h": 1,
+            "publishAt": 1725955890,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/xs/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/s/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/m/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/l/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/l/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713756/l/ef3dfbbd88ca0e4aa348264450b32e7d.jpg",
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "abTesting": null,
+            "categoryId": 856,
+            "categoryName": "科技",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713407,
+            "title": "摩根士丹利：歐洲央行將快速降息 造成歐元年底前跌7%",
+            "content": "&lt;p&gt;摩根士丹利預計，隨著歐洲央行加大寬鬆政策以應對步履蹣跚的經濟，歐元將在幾個月內跌至接近與美元平價。&lt;/p&gt;\n\n&lt;p&gt;摩根士丹利 G10 外匯策略主管 David Adams 表示，他們預計到年底，歐元將跌至 1.02 美元，較目前水準貶值約 7%。這個基本情境觀點，取決於央行在接下來的 3 次會議上繼續降息，以及可能大幅降息 50 基點。&lt;/p&gt;\n\n&lt;p&gt;這項呼籲是《彭博》調查的貨幣分析師中最悲觀的，經濟學家平均預期，歐元將在年底上漲至 1.11 美元。歐洲央行本周四的會議預計將降息 25 個基點，交易員的注意力集中在未來幾個月的前景上。&lt;/p&gt;\n\n&lt;p&gt;曾在紐約 Fed 工作的 Adams 表示，市場恐重新關注歐洲央行可能比目前定價更深、更快的降息幅度這一事實。本周的會議，可能會成為市場開始思考這一問題的重要催化劑。&lt;/p&gt;\n\n&lt;p&gt;貨幣市場目前押注，歐洲今年將實施約 60 個基點的寬鬆政策，而美國的寬鬆政策則高達 110 個基點左右。不過 Adams 認為，交易員有可能加大對歐洲央行的押注，以應對類似的降息半個百分點的風險。&lt;/p&gt;\n\n&lt;p&gt;期權交易商對歐洲央行會議前的歐元前景，已經變得不那麼樂觀，下周看漲的溢價周一有所縮小。&lt;/p&gt;\n\n&lt;p&gt;自 2 月以來，Adams 一直建議做空歐元美元選擇權，他認為，11 月的美國大選可能會提振美元。歐洲政治不確定性的上升，增強了他對歐元下行趨勢的信心。&lt;/p&gt;\n\n&lt;p&gt;儘管近幾個月來人們的注意力一直集中在法國政治上，但 Adams 認為，德國的政治發展同樣對該地區的長期政治穩定產生影響。&lt;/p&gt;\n\n&lt;p&gt;他表示：「在經濟成長放緩之際，政治風險溢價和不確定性正在上升。」 「這兩個因素都表明，投資者不太願意在歐洲地區部署資本。」&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "摩根士丹利預計，隨著歐洲央行加大寬鬆政策以應對步履蹣跚的經濟，歐元將在幾個月內跌至接近與美元平價。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "FX:EURUSD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "歐元",
+                "美元",
+                "歐洲央行",
+                "降息",
+                "歐洲經濟"
+            ],
+            "is24h": 0,
+            "publishAt": 1725955802,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/xs/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/s/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/m/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/l/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/xl/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713407/xxl/6e3cda2884c53558c6b63ab623f450b6.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 838,
+            "categoryName": "外匯",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713861,
+            "title": "大同電子代工事業調整產品組合 前8月營收微幅年減1.13%",
+            "content": "&lt;p&gt;大同 (2371-TW)8 月營收 40.3 億元，受到集團高占比的電子代工事業群持續調整產品組合影響，累計今年前 8 月營收 318.6 億元，呈現年減。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;大同 8 月營收 40.3 億元，月減 3.4%，年增 5.63%；累計今年 1 至 8 月營收 318.6 億元，年減 1.13%。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;大同表示，受惠電網強韌計畫，以及產業設備汰換與新建工程需求，大同電力事業群表現亮眼，毛利率較前期及去年同期上升，前 8 月累計營收，也較去年同期成長逾 1 成。另外，電纜與馬達事業部的 8 月營收皆較 7 月，及去年同期迎來雙位數高成長。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;展望下半年，在台電工程持續需求下，變壓器、161kV 高壓電纜出貨暢旺，加上中大型馬達及發電機市面銷貨增加及海外新市場拓展有成，對整體電力事業營收樂觀看待。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;新能源事業方面，旗下子公司大同智能積極開發的綠電市場，綠電需求客戶包含多家金融、製造及生技業等，近期更與三福氣體及京元電子 (2449-TW) 簽訂綠電銷售長約，綠電業務已較 2023 年全年成長 1 倍，預計全年成長將上看 2.5 倍。&nbsp;&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "大同 (2371-TW)8 月營收 40.3 億元，受到集團高占比的電子代工事業群持續調整產品組合影響，累計今年前 8 月營收 318.6 億元，呈現年減。 ",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "2371",
+                "2449"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:2371:STOCK:COMMON",
+                "TWS:2449:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "大同",
+                "重電",
+                "台電強韌電網計畫",
+                "綠電"
+            ],
+            "is24h": 1,
+            "publishAt": 1725955502,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/xs/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/s/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/m/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/l/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/xl/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713861/xxl/4126f7bb2746e87462eb58b0805df800.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "2371",
+                    "name": "大同",
+                    "symbol": "TWS:2371:STOCK"
+                },
+                {
+                    "code": "2449",
+                    "name": "京元電子",
+                    "symbol": "TWS:2449:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713205,
+            "title": "小摩：全球人口老化打壓股市 「這個產業」例外受益",
+            "content": "&lt;p&gt;摩根大通策略師發布報告稱，預計未來幾十年世界人口老化將加速，可能會對全球股市產生不利影，但「醫療保健」反而受益，因為老年人往往在這方面花費更多。&lt;/p&gt;\n\n&lt;p&gt;全球老化趨勢對金融市場逐漸成為華爾街討論的議題之一。摩根大通策略師表示，從歷史經驗來看，人口老化會導致股市報酬率下降、企業獲利成長放緩和估值下降。&lt;/p&gt;\n\n&lt;p&gt;根據摩根大通的計算，在未來 10 年的時間裡，65 歲以上人口每增加 1%，股市年報酬率就會下降 0.92%，主因是企業成長放緩和估值下降。&lt;/p&gt;\n\n&lt;p&gt;策略師指出，在人口老化背景下，年齡變大的投資人會更需要為退休儲蓄，導致投資資本減少，進而使企業創新下降。此外，在人口老化背景下，勞動力成長也會放緩，對企業獲利成長產生負面影響。&lt;/p&gt;\n\n&lt;p&gt;策略師警告，這一趨勢對於那些從國際業務中獲得收入的跨國公司來說尤其如此。&lt;/p&gt;\n\n&lt;p&gt;此外，隨著老年人掏空退休基金，國民儲蓄減少，進而推高了債券殖利率。同時，老年人口退出市場的比率也會更高，致使股價被壓低。&lt;/p&gt;\n\n&lt;p&gt;在老化背景下，有一個產業反而受益──醫療保健，因為老年人往往在這方面花費更多。&lt;/p&gt;\n\n&lt;p&gt;摩根大通策略師指出，「我們發現，高齡化與該行業的超額回報之間存在明顯的正相關，這完全是由更快的獲利成長所推動」。&lt;/p&gt;\n\n&lt;p&gt;他們預估，全球 65 歲以上人口比率每增加 1%，未來 10 年醫療保健產業回報就會增加 0.85%。&lt;/p&gt;\n\n&lt;p&gt;頂級經濟學家 David Rosenberg 也警告，55 歲以上的美國人持有美股所有權的 80%，這可能為股市帶來巨大的「下跌風險」。&lt;/p&gt;\n\n&lt;p&gt;David Rosenberg 進一步指出，隨著年齡的增長，人們往往會轉向更安全的投資，例如債券。而且，年長的投資人往往沒有能力在經濟低迷時期堅持持有股票，而這種在市場回檔期間拋售股票的行為，可能會加劇市場的波動性。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": null,
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "人口老化",
+                "醫療保健",
+                "小摩"
+            ],
+            "is24h": 0,
+            "publishAt": 1725955204,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/xs/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/s/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/m/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/l/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/xl/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713205/xl/db88cd5ea02de8f6d827f8239009708e.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 831,
+            "categoryName": "美股雷達",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713737,
+            "title": "星宇張國煒談北美航網拓航點 「紐約一定會去」",
+            "content": "&lt;p&gt;星宇航空 (2646-TW) 董事長張國煒今 (10) 日表示，在北美的航網除了加班洛杉磯和西雅圖，將會持續拓展航點，「紐約一定會去」，也不排除開航達拉斯、休士頓，不過不能說太多，「現在講什麼，主要對手就會去」。&lt;/p&gt;\n\n&lt;p&gt;星宇此次與瑞士腕錶先驅 BREITLING 百年靈攜手打造航空系聯名精品腕錶，於百年靈歡慶 140 周年之際，以經典錶款 Navitimer 和 Emergency 打造出三款特別版聯名腕錶。&lt;/p&gt;\n\n&lt;p&gt;張國煒表示，BREITLING 是飛行員夢寐以求的牌子，也是航空界的傳奇，每支都想收藏，不過，「私下的手錶收藏沒有那麼多到需要錶櫃，卡西歐比較多」，「若說收藏很多，大家又要說我奢侈」。&lt;/p&gt;\n\n&lt;p&gt;另外，對於近期遭網友討論唸英文不是很順，張國煒再次回應，英文就是一個溝通工具，大家不要太執著。&lt;/p&gt;\n\n&lt;p&gt;本次星宇聯名錶款合作歷時三年的討論、構思和研發，打造全新百年靈 Navitimer B01 Chronograph 43 STARLUX AIRLINES EDITION 航空計時腕錶星宇航空特別版 18K 紅金與精鋼款，18K 紅金款全球限量 25 只，精鋼款全球限量 140 只，藉此呼應百年靈創廠 140 周年。&lt;/p&gt;\n\n&lt;p&gt;而第三款聯名作品為百年靈 Emergency II STARLUX AIRLINES EDITION 緊急求救腕錶星宇航空特別版，全球限量 10 只。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "星宇張國煒談北美航網 紐約一定會去",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "2646"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWG:2646:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "星宇",
+                "百年靈",
+                "北美",
+                "航班",
+                "航空"
+            ],
+            "is24h": 1,
+            "publishAt": 1725954251,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/xs/025364e198786320fa37effafe705b08.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/s/025364e198786320fa37effafe705b08.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/m/025364e198786320fa37effafe705b08.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/l/025364e198786320fa37effafe705b08.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/xl/025364e198786320fa37effafe705b08.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713737/xl/025364e198786320fa37effafe705b08.jpg",
+                    "width": 960,
+                    "height": 540
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "2646",
+                    "name": "星宇航空",
+                    "symbol": "TWG:2646:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713376,
+            "title": "WTO警告：保護主義將擴大富國與窮國差距",
+            "content": "&lt;p&gt;世界貿易組織 (WTO) 敦促各國政府抵制關稅和其他國際貿易壁壘，認為保護主義可能毀掉 30 年來在縮小富國和窮國差距方面，原本所取得前所未有的進展。&lt;/p&gt;\n\n&lt;p&gt;在低關稅和規則執行等全球化的支柱受到攻擊之際，WTO 的報告為全球化堅定辯護。美國前總統川普已表示，如果他重返白宮，將對所有美國進口商品加徵關稅，WTO 總幹事 Ngozi Okonjo-Iweala 警告，川普的關稅計畫，將顛覆全球貿易穩定和可預測性。&lt;/p&gt;\n\n&lt;p&gt;Okonjo-Iweala 在新報告的前言強調，「限制貿易通常是保護社會特定群體就業的一種代價高昂的方式」，它可能「提高生產成本，同時招致心懷不滿的貿易夥伴代價高昂的報復。」&lt;/p&gt;\n\n&lt;p&gt;總部設在日內瓦的 WTO 在周一 (9 日) 發布的報告中表示，1995 年至 2023 年間，經通膨調整後的全球人均收入成長約 65%，幫助將最貧困人口的比例從 40.3% 降至 10.6%。儘管如此，報告指出，2022 年全球仍有 7.12 億人生活在極端貧困中。&lt;/p&gt;\n\n&lt;p&gt;儘管取得部分成功，一些領導人質疑 WTO 規則管轄下的自由貿易，是否能公平地分配經濟利益，導致該組織一些創始成員發起關稅和出口管制浪潮。&lt;/p&gt;\n\n&lt;p&gt;WTO 在報告中強調「再全球化」，即透過幫助更多的經濟體和社區，吸引更多的貿易，將它們從邊緣地帶帶入全球經濟的主流。&lt;/p&gt;\n\n&lt;p&gt;她指出，各國需要採取行動，確保盡可能多的公民能夠從開放和基於規則的國際市場創造的機會中受益，或者至少能夠抵禦技術變革或進口競爭的負面影響 。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "世界貿易組織 (WTO) 敦促各國政府抵制關稅和其他國際貿易壁壘，認為保護主義可能毀掉 30 年來在縮小富國和窮國差距方面，原本所取得前所未有的進展。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "WTO",
+                "保護主義",
+                "關稅",
+                "自由貿易",
+                "經濟利益"
+            ],
+            "is24h": 0,
+            "publishAt": 1725954002,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/xs/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/s/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/m/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/l/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/xl/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713376/xxl/a2df1c78e8ad6d41abd387f4c0348fd0.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 833,
+            "categoryName": "國際政經",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5712720,
+            "title": "加快本土化腳步！賓士在陸投資逾640億 明年起投產3款中國市場專屬車款",
+            "content": "&lt;p&gt;德國車廠賓士上周三 (4 日) 宣佈兩項重大消息，與合作夥伴共同在中國加碼投資 140 億人民幣(約 641 億台幣)，並自明年起推出三款由中國團隊主導開發的國產化新車款，且賓士並不是唯一在中國加碼的跨國車企。&lt;/p&gt;\n\n&lt;p&gt;今年 4 月，BMW 宣佈對瀋陽生產基地增加投資 200 億人民幣，聚焦在中國生產工廠的大規模升級和技術創新，此前還投入 100 億人民幣用以建設高壓電池工廠。&lt;/p&gt;\n\n&lt;p&gt;福斯在中國投資更是超過人民幣 440 億元，去年 12 月出資近 50 億成功收購小鵬 4.99%，同月跟地平線合資軟體公司又宣佈成立，福斯投資近 190 億元。今年 7 月，福斯再次豪擲 200 億人民幣，用以擴大自身位於安徽合肥生產基地的建設。&lt;/p&gt;\n\n&lt;p&gt;在過去近一年時間裡，賓士、BMW、福斯宣佈在中國投資金額將近 800 億人民幣，但瘋狂砸錢的背後，這些汽車巨頭的電動化進程不及預期，在中國本土車廠猛攻腹地的情況下，在中國市場的銷量縮減、利潤隨之下滑。&lt;/p&gt;\n\n&lt;p&gt;但頹勢中仍有生機：BMW 去年靠 X5 實現國產化降成本後獲得 9.3 萬輛的銷量成績，用中國供應商，生產中國客戶喜愛的車款，似乎已是賓士與 BMW 當下的最佳路徑。&lt;/p&gt;\n\n&lt;p&gt;從「34C」到「56E」，賓士跟 BMW 深諳國產化帶來的紅利，但自主品牌的崛起，不斷壓縮著他們的生存空間。&lt;/p&gt;\n\n&lt;p&gt;今年前 7 月官方定價人民幣 69.98 萬元的 GLE 共賣出 2 萬 4629 輛，同為中大型 SUV 的 BMW 的 X5 官方定價為 61.5 萬元起，同期銷量 5 萬 3910 輛。在國產品牌中，理想 L8 賣出 43613 輛，起跳價是 GLE 的一半。&lt;/p&gt;\n\n&lt;p&gt;競爭對手水漲船高的銷量將擴大其規模效應，進一步壓低生產成本，國產化推進的壓力不僅在成本，更在速度，以賓士為例，本次官宣的 CLA 長軸距版與 GLE 長軸距版，都是首次實現國產化且前者國產化程度要高於 GLE。&lt;/p&gt;\n\n&lt;p&gt;有賓士人士向《36 氪》表示，該車廠正常開發週期為 3 年，但 GLE 國產化是形勢所迫，受競爭對手 X5 與國產電動車的衝擊，再不國產化，GLE 恐怕很難再佔有較大的市佔率。&lt;/p&gt;\n\n&lt;p&gt;賓士此前曾討論 GLE 在中國如何實現 100% 國產化，該車款是賓士 A、B、C、E 四個產品系列中，單車利潤最高的車款之一，賓士期待 GLE 國產化後進一步擴大銷量、獲取更多利潤。&lt;/p&gt;\n\n&lt;p&gt;知情人士此前向《36 氪》透露，「過去半年中國團隊一直在討論，如何展開 GLE 車型對供應商的公開競價」，在賓士德國總部，有研發高層力推 GLE 在中國的深度本土化。在賓士中國，推進深度本土化的第一步，便是獲取中國本土供應商的報價。&lt;/p&gt;\n\n&lt;p&gt;嗅到風聲的中國本土供應商紛紛開始行動，不斷向賓士表明加入其供應鏈的意願，而國產 GLE 有望成為賓士的銀彈。&lt;/p&gt;\n\n&lt;p&gt;在比拼價格的中國市場，賓士有獨特優勢。過去一年，賓士 C 級、E 級轎車與 SUV 車型 GLC，均保持平均月銷 1 萬輛以上的成績，在豪華車種類，百萬級的賓士 S 級累計銷量達 1 萬 396 輛。賓士在豪華品牌中，依舊佔據統治地位，但其賺的卻越來越少了。&lt;br&gt;\n去年全年，賓士凈利 145.31 億歐元，年減 1.9%，今年上半年凈利 79 億歐元，年減 25%。&nbsp;&lt;/p&gt;\n\n&lt;p&gt;財務數據增加賓士的危機感，作為最大單一市場的中國自然成為賓士發力的重點。&lt;/p&gt;\n\n&lt;p&gt;2024 年 9 月，賓士董事會主席康林松再度訪華，這是他今年第四次來到中國。&lt;/p&gt;\n\n&lt;p&gt;知情人士透露，康林松本次訪華的核心之一便是與上海政府的會晤，而 140 億的投資與到訪上海的康林松，能否給賓士電動化進程帶來新希望，值得整個產業期待。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": null,
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "FX:CNYUSD:FOREX:COMMON",
+                "FX:USDTWD:FOREX:COMMON",
+                "FX:EURUSD:FOREX:COMMON",
+                "FX:USDEUR:FOREX:COMMON",
+                "FX:USDCNH:FOREX:COMMON",
+                "FX:USDCNY:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "中國車市",
+                "BMW",
+                "賓士",
+                "投資"
+            ],
+            "is24h": 0,
+            "publishAt": 1725953488,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/xs/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/s/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/m/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/l/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/xl/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 960,
+                    "height": 539
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712720/xxl/f2cfb368cbcfab31674db3172cf522c5.jpg",
+                    "width": 1080,
+                    "height": 607
+                }
+            },
+            "abTesting": null,
+            "categoryId": 832,
+            "categoryName": "歐亞股",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5712567,
+            "title": "人民幣跨境交易創新高 應用場景再擴大",
+            "content": "&lt;p&gt;中非合作論壇峰會近日在北京舉行，雙方確定了中非關係新定位，討論工業化和農業現代化以及高品質共建「一帶一路」等議題，為中非經貿尋求更多合作機遇。&lt;/p&gt;\n\n&lt;p&gt;2023 年，中非貿易額達 2,821 億美元，中國在非洲直接投資存量超過 400 億美元。&lt;/p&gt;\n\n&lt;p&gt;另外，中國先後與南非、摩洛哥、埃及等國家簽訂雙邊本幣互換協議，且南非、奈及利亞等國已經將人民幣列為儲備貨幣。&lt;/p&gt;\n\n&lt;p&gt;在中國本外幣跨境收付總額中，目前對非洲的跨境人民幣收付的比率並不大，未來，中非還要加強貨幣合作機制以及金融基礎設施建設；推動更多中非金融機構合作，促進人民幣在非洲跨境交易中的使用。&lt;/p&gt;\n\n&lt;p&gt;著眼人民幣在全球跨境交易的情況看，2024 年 7 月，人民幣在中國跨境貿易收支中的比重達到 53%，高於 2021 年同期的 40%。&lt;/p&gt;\n\n&lt;p&gt;這首先得益於中國與沙烏地阿拉伯、阿根廷和蒙古在 2023 年開設或續簽的貨幣互換額度。另外，自 2022 年以來，哈薩克、巴基斯坦、巴西和塞爾維亞也建立了新的人民幣清算銀行。&lt;/p&gt;\n\n&lt;p&gt;分析人士認為，中國保持人民幣匯率穩定，推動了貿易夥伴更多使用人民幣進行交易。&lt;/p&gt;\n\n&lt;p&gt;中國與東盟的貨幣合作也隨著雙邊貿易的增長而備受關注。東盟地區人民幣跨境交易清算網絡初見規模。&lt;/p&gt;\n\n&lt;p&gt;去年 3 月，東盟十國同意加強使用本地貨幣作跨境貿易，新加坡、泰國、馬來西亞、印尼等國家逐步減少美元使用。新加坡、馬來西亞、泰國和菲律賓正推進人民幣清算行建設；中國已經和越南、印尼、柬埔寨等國簽訂雙邊本幣結算協議。&lt;/p&gt;\n\n&lt;p&gt;從國際範圍看，人民幣在貿易融資方面其實還是遠遠落後於美元。國際支付網絡 SWIFT 數據顯示，在全球支付中，7 月份人民幣的比率上升至 4.74%，創下歷史新高，而美元、歐元和英鎊的比重分別達到 47.81%、22.47%、7.00%。&lt;/p&gt;\n\n&lt;p&gt;有分析強調，人民幣的跨境使用程度遠未達到無法取代的程度。事實上，中國推進人民幣國際化，也並不尋求推翻美元的全球主導地位，而是要保持自主和韌性。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "中非合作論壇峰會近日在北京舉行，雙方確定了中非關係新定位，討論工業化和農業現代化以及高品質共建「一帶一路」等議題，為中非經貿尋求更多合作機遇。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "FX:CNYUSD:FOREX:COMMON",
+                "FX:EURUSD:FOREX:COMMON",
+                "FX:GBPUSD:FOREX:COMMON",
+                "FX:USDCNY:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "人民幣",
+                "跨境交易",
+                "應用場景"
+            ],
+            "is24h": 0,
+            "publishAt": 1725953402,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/xs/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/s/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/m/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/l/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/xl/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 960,
+                    "height": 540
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5712567/xxl/c080061bb58bb3af3f5628b74da99faa.jpg",
+                    "width": 1080,
+                    "height": 608
+                }
+            },
+            "abTesting": null,
+            "categoryId": 837,
+            "categoryName": "大陸政經",
+            "columnists": null,
+            "fundCategoryAbbr": [
+                {
+                    "name": "股票-大中華",
+                    "categoryAbbrId": "C55"
+                }
+            ],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0
+        },
+        {
+            "newsId": 5713400,
+            "title": "華為正式發表全球首款「三折機」售價揭曉！",
+            "content": "&lt;p&gt;蘋果 (&lt;a data-symbol-template=&quot;USS:AAPL:STOCK:COMMON&quot; href=&quot;#&quot;&gt;AAPL-US&lt;/a&gt;) 發表 iPhone 16 後，中國華為正式發表 Mate XT 非凡大師，這是全球首款「三折機」，擁有 10.2 英寸的螢幕，售價人民幣（下同）19,999 元起。&lt;/p&gt;\n\n&lt;p&gt;據《財聯社》周二（10 日）報導，在華為見非凡品牌盛典及鴻蒙智行新品發表會上，常務董事余承東表示，Mate XT 非凡大師是全球首款「三折機」，打開手機後，螢幕有 10.2 英寸，是全球最大折疊手機，相當於把平板電腦裝在口袋裡。&lt;/p&gt;\n\n&lt;p&gt;余承東說，這款手機展開後，厚度僅 3.6 毫米，是全球最薄的折疊手機。&lt;/p&gt;\n\n&lt;p&gt;余承東開玩笑稱：「我們在飛機上，在火車上，要看報告，要看 PPT，你就可以打開三折，實現沉浸式閱覽。小紅書，打開就是大紅書。」&lt;/p&gt;\n\n&lt;p&gt;余承東表示，華為耗時五年，解決了螢幕和鉸鏈的技術突破，全球首創華為天工鉸鏈系統，實現雙軌聯動。&lt;/p&gt;\n\n&lt;p&gt;這款「三折機」，256GB 版本售價 19,999 元，512GB 版本售價 21,999 元，1TB 版本售價 23,999 元。9 月 20 日 10 時 08 分正式開售。&lt;/p&gt;\n\n&lt;p&gt;據《界面新聞》報導，華為商城在周一晚間的數據顯示，於 9 月 7 日中午 12 時 08 分開放預購的 Mate XT 非凡大師，預購人數已突破 300 萬，達到 313.7 萬人。&lt;/p&gt;\n\n&lt;p&gt;另據《第一財經》周一報導，在二手交易平台，「黃牛」已經把這款新機的訂購價格炒到 2 萬元左右。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "蘋果發表 iPhone 16 後，中國華為正式發表 Mate XT 非凡大師，這是全球首款「三折機」，擁有 10.2 英寸的螢幕，售價人民幣（下同）19,999 元起。",
+            "isCategoryHeadline": 1,
+            "stock": [
+                "US-AAPL"
+            ],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "USS:AAPL:STOCK:COMMON",
+                "FX:CNYUSD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "華為",
+                "三折機",
+                "Mate XT 非凡大師"
+            ],
+            "is24h": 1,
+            "publishAt": 1725952752,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/xs/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/s/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/m/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/l/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/l/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713400/l/b68cc4d90b01e9a861f57600aeb9af82.jpg",
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "abTesting": null,
+            "categoryId": 837,
+            "categoryName": "大陸政經",
+            "columnists": null,
+            "fundCategoryAbbr": [
+                {
+                    "name": "股票-大中華",
+                    "categoryAbbrId": "C55"
+                }
+            ],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "AAPL",
+                    "name": "蘋果",
+                    "symbol": "USS:AAPL:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713406,
+            "title": "華擎AI伺服器需求強勁 8月營收創歷史新高",
+            "content": "&lt;p&gt;板卡廠華擎 (3515-TW) 受惠於一般型和 AI 伺服器出貨動能，8 月營收達 22.3 億元，年月雙增，創歷史單月新高；累計前 8 月營收 144 億元，年增逾 2 成。&lt;/p&gt;\n\n&lt;p&gt;華擎今 (10) 日公告 8 月 22.3 億元，月增 11.9%、年增 36.3%；累計前 8 月營收 144 億元，年增 26.1%。&lt;/p&gt;\n\n&lt;p&gt;華擎今年伺服器成長強勁，一般型和 AI 伺服器將於下半年出貨，為營收增溫；到了明年，AMD(AMD-US) 伺服器 MI300 與輝達 (NVDA-US) 伺服器 GB200 放量，可望為華擎營收挹注動能。&lt;/p&gt;\n",
+            "hasCoverPhoto": 1,
+            "isIndex": 1,
+            "summary": "板卡廠華擎 (3515-TW) 受惠於一般型和 AI 伺服器出貨動能，8 月營收達 22.3 億元，年月雙增，創歷史單月新高；累計前 8 月營收 144 億元，年增逾 2 成。",
+            "isCategoryHeadline": 1,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:3515:STOCK:COMMON",
+                "USS:AMD:STOCK:COMMON",
+                "USS:NVDA:STOCK:COMMON"
+            ],
+            "source": "",
+            "isOutsource": 0,
+            "keyword": [
+                "華擎",
+                "AI伺服器",
+                "板卡"
+            ],
+            "is24h": 0,
+            "publishAt": 1725952730,
+            "coverSrc": {
+                "xs": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/xs/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 100,
+                    "height": 56
+                },
+                "s": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/s/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 180,
+                    "height": 101
+                },
+                "m": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/m/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 380,
+                    "height": 214
+                },
+                "l": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/l/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 640,
+                    "height": 360
+                },
+                "xl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/xl/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 960,
+                    "height": 539
+                },
+                "xxl": {
+                    "src": "https://cimg.cnyes.cool/prod/news/5713406/xxl/d2a1fd574e6c1b0c46282ede8eb6b1db.jpg",
+                    "width": 1080,
+                    "height": 607
+                }
+            },
+            "abTesting": null,
+            "categoryId": 827,
+            "categoryName": "台股新聞",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "3515",
+                    "name": "華擎",
+                    "symbol": "TWS:3515:STOCK"
+                },
+                {
+                    "code": "AMD",
+                    "name": "超微",
+                    "symbol": "USS:AMD:STOCK"
+                },
+                {
+                    "code": "NVDA",
+                    "name": "輝達",
+                    "symbol": "USS:NVDA:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713490,
+            "title": "營收速報  - 潤泰新(9945)8月營收33.59億元年增率高達79.54％",
+            "content": "&lt;p&gt;    潤泰新(9945-TW)今天公告2024年8月營收為新台幣33.59億元，年增率79.54%，月增率47.68%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為200.31億元，累計年增率18.92%。&lt;/p&gt;&lt;p&gt;    最新價為45元，近5日股價下跌-5.27%，相關其    他下跌-4.1%，短期股價無明顯表現。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-6247 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-3966 張&lt;/li&gt;    &lt;li&gt;投信買賣超：0 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：-2281 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;33.59億&lt;/td&gt;        &lt;td&gt;80%&lt;/td&gt;        &lt;td&gt;48%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;22.74億&lt;/td&gt;        &lt;td&gt;37%&lt;/td&gt;        &lt;td&gt;-5%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;23.84億&lt;/td&gt;        &lt;td&gt;21%&lt;/td&gt;        &lt;td&gt;2%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;23.44億&lt;/td&gt;        &lt;td&gt;-19%&lt;/td&gt;        &lt;td&gt;-13%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;26.88億&lt;/td&gt;        &lt;td&gt;24%&lt;/td&gt;        &lt;td&gt;10%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;24.41億&lt;/td&gt;        &lt;td&gt;33%&lt;/td&gt;        &lt;td&gt;49%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    潤泰新(9945-TW) 所屬產業為其他業，主要業務為委託營造廠興建國民住宅．商業大樓出租出售業務。辦理國內外工業區及區內之社區廠房及大樓之開發規劃及租售。從事商品之處理．包裝．分類．倉儲及前各項產品之加工批發業務。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月潤泰新(9945-TW) 營收年增成長79.54% , 盤後股價為45元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:9945:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "潤泰新"
+            ],
+            "is24h": 0,
+            "publishAt": 1725952608,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "9945",
+                    "name": "潤泰新",
+                    "symbol": "TWS:9945:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713489,
+            "title": "營收速報  - 統一實(9907)8月營收42.17億元年增率高達44.34％",
+            "content": "&lt;p&gt;    統一實(9907-TW)今天公告2024年8月營收為新台幣42.17億元，年增率44.34%，月增率1.72%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為293.54億元，累計年增率19.28%。&lt;/p&gt;&lt;p&gt;    最新價為15.75元，近5日股價下跌-4.85%，相關其    他下跌-4.1%，短期股價無明顯表現。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-930 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-149 張&lt;/li&gt;    &lt;li&gt;投信買賣超：0 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：-781 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;42.17億&lt;/td&gt;        &lt;td&gt;44%&lt;/td&gt;        &lt;td&gt;2%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;41.46億&lt;/td&gt;        &lt;td&gt;43%&lt;/td&gt;        &lt;td&gt;3%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;40.25億&lt;/td&gt;        &lt;td&gt;22%&lt;/td&gt;        &lt;td&gt;2%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;39.55億&lt;/td&gt;        &lt;td&gt;22%&lt;/td&gt;        &lt;td&gt;9%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;36.41億&lt;/td&gt;        &lt;td&gt;9%&lt;/td&gt;        &lt;td&gt;1%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;36.01億&lt;/td&gt;        &lt;td&gt;1%&lt;/td&gt;        &lt;td&gt;52%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    統一實(9907-TW) 所屬產業為其他業，主要業務為各種鐵皮印花製罐及其原料鍍製鋼片加工製造原料鋼板加工製造。製罐及馬口鐵機器進出口馬口鐵罐及鍍製鋼片原料鋼板加工製造。其他批發業(氧化鐵、脂肪酸、錫製品、氧化錫)。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月統一實(9907-TW) 營收年增成長44.34% , 盤後股價為15.75元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:9907:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "統一實"
+            ],
+            "is24h": 0,
+            "publishAt": 1725952606,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "9907",
+                    "name": "統一實",
+                    "symbol": "TWS:9907:STOCK"
+                }
+            ]
+        },
+        {
+            "newsId": 5713477,
+            "title": "營收速報  - 統一證(2855)8月營收9.06億元年增率高達36.19％",
+            "content": "&lt;p&gt;    統一證(2855-TW)今天公告2024年8月營收為新台幣9.06億元，年增率36.19%，月增率-14.78%。&lt;/p&gt;&lt;p&gt;    今年1-8月累計營收為95.68億元，累計年增率36.62%。&lt;/p&gt;&lt;p&gt;    最新價為24.9元，近5日股價下跌-4.75%，相關金融保險下跌-2.2%，短期股價無明顯表現。&lt;/p&gt;&lt;p&gt;&lt;em&gt;近5日籌碼&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;三大法人合計買賣超：-2323 張&lt;/li&gt;    &lt;li&gt;外資買賣超：-3562 張&lt;/li&gt;    &lt;li&gt;投信買賣超：+1239 張&lt;/li&gt;    &lt;li&gt;自營商買賣超：0 張&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;近6個月營收一覽&lt;/em&gt;&lt;/p&gt;&lt;table&gt;    &lt;thead&gt;    &lt;tr&gt;        &lt;th&gt;月份&lt;/th&gt;        &lt;th&gt;月營收&lt;/th&gt;        &lt;th&gt;年增率&lt;/th&gt;        &lt;th&gt;月增率&lt;/th&gt;    &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody&gt;        &lt;tr&gt;        &lt;td&gt;24/8&lt;/td&gt;        &lt;td&gt;9.06億&lt;/td&gt;        &lt;td&gt;36%&lt;/td&gt;        &lt;td&gt;-15%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/7&lt;/td&gt;        &lt;td&gt;10.63億&lt;/td&gt;        &lt;td&gt;-34%&lt;/td&gt;        &lt;td&gt;-36%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/6&lt;/td&gt;        &lt;td&gt;16.51億&lt;/td&gt;        &lt;td&gt;13%&lt;/td&gt;        &lt;td&gt;45%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/5&lt;/td&gt;        &lt;td&gt;11.40億&lt;/td&gt;        &lt;td&gt;28%&lt;/td&gt;        &lt;td&gt;41%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/4&lt;/td&gt;        &lt;td&gt;8.10億&lt;/td&gt;        &lt;td&gt;60%&lt;/td&gt;        &lt;td&gt;-48%&lt;/td&gt;    &lt;/tr&gt;        &lt;tr&gt;        &lt;td&gt;24/3&lt;/td&gt;        &lt;td&gt;15.60億&lt;/td&gt;        &lt;td&gt;81%&lt;/td&gt;        &lt;td&gt;18%&lt;/td&gt;    &lt;/tr&gt;        &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;    統一證(2855-TW) 所屬產業為金融保險業，主要業務為承銷有價證券 自行買賣有價證券 受託買賣有價證券。股務代理 有價證券融資融券業務 期貨業務輔助 期貨自營。其它經證期會核准之有關證券業務。&lt;/p&gt;&lt;p&gt;註：數據僅供參考，不作為投資建議。&lt;/p&gt;",
+            "hasCoverPhoto": 0,
+            "isIndex": 1,
+            "summary": "2024年8月統一證(2855-TW) 營收年增成長36.19% , 盤後股價為24.9元",
+            "isCategoryHeadline": 0,
+            "stock": [],
+            "video": "",
+            "payment": 0,
+            "feature": 0,
+            "otherProduct": [
+                "TWS:2855:STOCK:COMMON",
+                "FX:USDTWD:FOREX:COMMON"
+            ],
+            "source": null,
+            "isOutsource": 0,
+            "keyword": [
+                "台股",
+                "台股營收",
+                "8月營收",
+                "統一證"
+            ],
+            "is24h": 0,
+            "publishAt": 1725952568,
+            "coverSrc": null,
+            "abTesting": null,
+            "categoryId": 916,
+            "categoryName": "台股營收",
+            "columnists": null,
+            "fundCategoryAbbr": [],
+            "etf": [],
+            "fbShare": 0,
+            "fbComment": 0,
+            "fbCommentPluginCount": 0,
+            "market": [
+                {
+                    "code": "2855",
+                    "name": "統一證",
+                    "symbol": "TWS:2855:STOCK"
+                }
+            ]
+        }
+    ]
+}
